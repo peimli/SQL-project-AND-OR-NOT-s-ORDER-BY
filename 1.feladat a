@@ -1,0 +1,1 @@
+SELECT SupplierName, City FROM Suppliers WHERE Country = "USA" OR Country = 'UK';
